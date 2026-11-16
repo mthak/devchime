@@ -26,7 +26,7 @@ All contact links use `contact@devchime.us` and open the visitor's email applica
 
 ## Content
 
-- Portfolio: ITLook.ai and Jinn Labs, included as portfolio companies at the owner's direction.
+- Portfolio: ITLook.ai, Jinn Labs, and RiseWise.ai, included as portfolio companies at the owner's direction.
 - Investment criteria: a working product, initial traction, business potential, and partnership fit.
 - Founder support: product and technical strategy, go-to-market, customer acquisition, and retention.
 - Visuals: original diagrams built directly in HTML, CSS, and SVG. Portfolio diagrams are conceptual illustrations, not product screenshots.
@@ -35,5 +35,6 @@ All contact links use `contact@devchime.us` and open the visitor's email applica
 Company descriptions draw on the companies' own sites:
 - https://itlook.ai/ — agentic AI security.
 - https://www.jinnlabs.ai/demo — AI store manager for retail.
+- https://risewise.ai/ — financial literacy and virtual investing practice for teens and young adults.
 
 No investment amounts, performance metrics, named team biographies, or guaranteed growth outcomes are asserted.
